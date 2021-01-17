@@ -1,0 +1,53 @@
+.main{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: start;
+	height: 100%;
+	width: 100%;
+	background-image: url('images/survey-form-background.jpeg');
+}
+.fp {
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+	background-color: rgba(27, 27, 50, 0.8);
+	width: 600px;
+	height: 1100px;
+	border-style: none;
+	border-radius: 1%;
+}
+.te {
+	display: flex;
+	font-family: sans-serif;
+	color: white;
+	font-size: large;
+	font-family: sans-serif;
+}
+
+.bo {
+	height: 30px;
+	border-radius: 3%;
+	background-color: white;
+	border-style: none;
+	width: 500px;
+	font-size: medium;
+}
+
+.op {
+	font-weight: bold;
+	font-family: sans-serif;
+	color: white;
+	font-size: large;
+	margin-left: 40px;
+}
+
+.as {
+	width: 500px;
+	height: 50px;
+	background-color: #37af65;
+	color: white;
+	font-weight: bold;
+	border-style: none;
+}
+* { margin:0; padding:0; box-sizing:border-box; }
