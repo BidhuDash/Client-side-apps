@@ -1,0 +1,17 @@
+.first{
+    display: flex;
+    align-items: center;
+    background-color: silver;
+    flex-direction: column;
+}
+.second{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.third{
+    display: flex;
+    align-items: center;
+    background-color: silver;
+    flex-direction: column;
+}
