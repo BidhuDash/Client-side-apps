@@ -1,7 +1,8 @@
 .filter-container{
     margin: 10px 20px;
-    font-size: medium;
+    font-size: large;
 }
+
 input[type=radio]{
     margin-left: 10px;
 }
